@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Priyam Biswas</h1>
 <h3 align="center">A passionate aspiring data scientist from India</h3>
 
-<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:1400/1*awH0QdyBOyPuBxrLXMrqmQ.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*awH0QdyBOyPuBxrLXMrqmQ.gif">
 
 <p align="left"> <a href="https://twitter.com/priyambisw84252" target="blank"><img src="https://img.shields.io/twitter/follow/priyambisw84252?logo=twitter&style=for-the-badge" alt="priyambisw84252" /></a> </p>
 
