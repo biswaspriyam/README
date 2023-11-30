@@ -1,3 +1,4 @@
+![logo](https://github.com/biswaspriyam/biswaspriyam/blob/main/Black%20Yellow%20Modern%20Programmer%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Priyam Biswas</h1>
 <h3 align="center">A passionate aspiring data scientist from India</h3>
 
